@@ -14,7 +14,7 @@ If you want to download this repository for study purposes, just follow the step
 
 ## Screenshot
 
-<img src="/Users/emidiovaleretoneto/Downloads/screenshot.gif" alt="screenshot">
+<img src="./assets/img/screenshot.gif" alt="screenshot">
 
 ## Author
 
