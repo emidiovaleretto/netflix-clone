@@ -1,0 +1,32 @@
+@media screen and (max-width:730px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .btn-1, .btn-2 {
+        margin-top: 5px;
+        width: 200px;
+        height: 70px;
+    }
+
+    .main-content {
+        z-index: 1;
+        background: linear-gradient(to right, #000 35%, transparent 90%),
+        url('/assets/img/capa-lcdp.jpeg');
+        height: 100vh;
+        background-size: cover;
+    }
+
+    .main-content .container {
+        width: 50%;
+        height: 80%;
+    }
+
+}
+
+@media screen and (min-width:1000px) {
+    .description {
+        width: 50%;
+    }
+}
