@@ -32,7 +32,7 @@ If you want to download this repository for study purposes, just follow the step
 
 ---
 
-```
+```html
 <sub><b>Emidio Valeretto</b></sub></a> 🚀
 
 Feito com ❤️ por Emidio Valeretto 👋🏽 Entre em contato!
