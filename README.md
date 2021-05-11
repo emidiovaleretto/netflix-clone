@@ -6,7 +6,7 @@ This project is a clone of the Netflix homepage. It was built using the main con
 
 
 
-## Geeting Started
+## Getting Started
 
 
 
